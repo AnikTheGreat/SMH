@@ -1,0 +1,81 @@
+@media (max-width:500px){
+    .navbar-brand{
+        font-weight: bold;
+        font-size: 1.2rem;
+    }
+    .welcome-h1{
+        padding-top: 5%;
+        padding-bottom: 4.2%;
+        font-weight: bold;
+        font-size: 200%;
+        color: #393b44;
+    }
+    .middle-h2{
+        font-weight: bold;
+        font-size: 140%;
+    }
+    .service-image{
+        width: 30%%;
+        margin-bottom: 5%;
+        margin-top: 10%;
+    }
+    #middle h3{
+        font-size: 1.2rem;
+    }
+    .details-h2{
+        font-weight: bold;
+        font-size: 140%;
+    }
+    .delivary,.pharmacy,.call{
+        padding-top: 5%;    
+        width: 80%;
+        margin: auto;
+        text-align: left;
+    }
+    .details-img{
+        width: 40%;
+        float: right;
+    }
+    .details-image{
+        margin-right: 3%;
+        width: 40%;
+        float: left;
+    }
+    .appriciation-h2{
+        padding-bottom: 5%;
+        font-weight: bold;
+        font-size: 1.2rem;
+    }
+    .car-img{
+        width: 100%;
+    }
+    .carousel-caption p{
+        font-size: 5%;
+    }
+    .owner-h2{
+        padding-bottom: 5%;
+        font-weight: bold;
+        font-size: 1.3rem;
+    }
+    .owner-img{
+        width: 40%;
+        border-radius: 100%;
+        margin-left: 30%;
+        margin-bottom: 6%;
+    }
+    .owner-div h3{
+        padding-top: 50%;
+        font-size: 1.1rem;
+    }
+    .owner-div p{
+        font-size: 80%;
+    }
+    .details-h3{
+        font-size: 1.3rem;
+    }
+    .details-p{
+        font-size: 80%;
+    }
+    .icon{
+        font-size: 80%;
+    }
